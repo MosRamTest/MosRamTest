@@ -2,11 +2,11 @@
 
 ## 🚀 Automation Tester | QA Engineer | Software Testing Enthusiast
 
-I'm a passionate **Automation Tester** with experience in designing, developing, and maintaining reliable automated test frameworks. I enjoy building scalable automation solutions that improve software quality and accelerate delivery.
+I'm a passionate **QA Automation Engineer** with experience in designing, developing, and maintaining reliable automated test frameworks. I enjoy building scalable automation solutions that improve software quality and accelerate delivery.
 
 ### 💼 About Me
 
-* 🔍 Automation Testing Professional
+* 🔍 QA Automation Engineer Professional
 * ☕ Strong experience with **Java**
 * 🌐 Web Automation using **Selenium** & **Playwright**
 * ✅ Test Frameworks: **TestNG** & **PyTest**
