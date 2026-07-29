@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Moshe Rampedi**
 
-## 🚀 Automation Tester | QA Engineer | Software Testing Enthusiast
+## 🚀 Automation Test Analyst | QA Engineer | Software Testing Enthusiast
 
 I'm a passionate **QA Automation Engineer** with experience in designing, developing, and maintaining reliable automated test frameworks. I enjoy building scalable automation solutions that improve software quality and accelerate delivery.
 
