@@ -1,88 +1,123 @@
-# Hi there 👋, I'm **Moshe Rampedi**
+Hi there 👋, I'm Moshe Rampedi
+🚀 QA Automation Engineer | Test Analyst | Software Testing Enthusiast
 
-## 🚀 Automation Test Analyst | QA Engineer | Software Testing Enthusiast
+Welcome to my GitHub profile! I'm a passionate QA Automation Engineer focused on building reliable, maintainable, and scalable test automation solutions that improve software quality and accelerate software delivery.
 
-I'm a passionate **QA Automation Engineer** with experience in designing, developing, and maintaining reliable automated test frameworks. I enjoy building scalable automation solutions that improve software quality and accelerate delivery.
+I enjoy turning testing challenges into automated solutions and continuously exploring new tools, frameworks, and best practices in software quality engineering.
 
-### 💼 About Me
+💼 About Me
 
-* 🔍 QA Automation Engineer Professional
-* ☕ Strong experience with **Java**
-* 🌐 Web Automation using **Selenium** & **Playwright**
-* ✅ Test Frameworks: **TestNG** & **PyTest**
-* 🔌 API Automation Testing
-* 🐍 Python Automation
-* 🗄️ SQL for database validation and testing
-* 📈 Passionate about Continuous Improvement and Test Automation Best Practices
+🔍 QA Automation Engineer / Test Analyst
 
----
+☕ Strong experience with Java
 
-## 🛠️ Tech Stack
+🐍 Automation development with Python
 
-### Programming Languages
+🌐 Web automation using Selenium WebDriver and Playwright
 
-* Java
-* Python
-* SQL
+✅ Test automation using TestNG and PyTest
 
-### Automation Tools
+🔌 API automation and testing
 
-* Selenium WebDriver
-* Playwright
-* TestNG
-* PyTest
+🗄️ SQL for database validation and testing
 
-### Testing
+🔄 Functional, regression, smoke, and cross-browser testing
 
-* UI Automation Testing
-* API Automation Testing
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* Cross-Browser Testing
+⚙️ CI/CD and test automation integration
 
-### Database
+📈 Passionate about continuous improvement and QA best practices
 
-* SQL
-
-### Version Control
-
-* Git
-* GitHub
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Playwright Framework Design
-* CI/CD Integration for Test Automation
-* Performance Testing
-* Cloud Test Automation
-
----
-
-## 🎯 What I Enjoy
-
-* Building robust automation frameworks
-* Solving complex testing challenges
-* Learning new automation technologies
-* Contributing to quality-driven software development
-
----
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-baadge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MosRamTest&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MosRamTest&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MosRamTest&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=MosRamTest&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Tech Stack
+💻 Programming Languages
 
 
 
-> *"Quality is never an accident; it is always the result of intelligent effort."*
+
+
+
+
+
+🧪 Test Automation
+
+
+
+
+
+
+🔌 Testing
+
+UI Automation Testing
+
+API Automation Testing
+
+Functional Testing
+
+Regression Testing
+
+Smoke Testing
+
+Cross-Browser Testing
+
+End-to-End Testing
+
+Database Validation
+
+⚙️ DevOps & Version Control
+
+
+
+
+
+🌱 Currently Learning
+
+🎭 Advanced Playwright framework design
+
+⚙️ CI/CD integration for test automation
+
+📊 Performance testing
+
+☁️ Cloud-based test automation
+
+🧩 Advanced automation framework architecture
+
+🚀 Scalable and maintainable QA engineering practices
+
+🎯 What I Enjoy
+
+🏗️ Building robust and maintainable automation frameworks
+
+🔍 Finding and solving complex testing challenges
+
+🤖 Automating repetitive testing processes
+
+🧪 Improving software quality through effective testing strategies
+
+📚 Learning new testing tools and technologies
+
+🔄 Integrating automated tests into CI/CD pipelines
+
+🤝 Contributing to quality-driven software development
+
+📊 GitHub Stats
+<div align="center">
+
+</div>
+🧪 Testing Philosophy
+
+"Quality is never an accident; it is always the result of intelligent effort."
+
+I believe quality should be built into the software development lifecycle rather than treated as the final step before release.
+
+My approach to testing focuses on:
+
+Quality → Automation → Reliability → Continuous Improvement
+
+🤝 Let's Connect
+
+I'm always interested in connecting with fellow QA Engineers, Automation Engineers, Software Developers, and Technology Professionals.
+
+If you're passionate about software quality, test automation, CI/CD, or engineering best practices, let's connect and learn from each other.
+
+⭐ Thanks for visiting my profile!
+
+<!-- Proudly created and maintained by Moshe Rampedi. -->
